@@ -16,9 +16,8 @@ I traced the marketplace’s domain records and documented what happened when I 
 **[ShinyHunters — 18 days inside the group ↗](https://x.com/bugshunters/status/2087923255357190281)**  
 A first-person account of the 18 days I spent investigating ShinyHunters. The original thread is in French.
 
-### What I build
+### Hackuten CTF
 
-| Project | My work |
-| :--- | :--- |
-| **[Hackuten](https://hackuten.fr)** | I founded and run this capture-the-flag platform. Pick a challenge and try it for yourself. |
-| **[DomainWatch](https://github.com/bugshunters/domainwatch)** | I built a Linux tool that records changes to a domain’s DNS, website, TLS certificate and registration data. Discord flags the change and SQLite keeps the timeline. |
+I founded and run Hackuten, a capture-the-flag platform where you can practice cybersecurity by solving challenges.
+
+[Explore the challenges on Hackuten ↗](https://hackuten.fr)

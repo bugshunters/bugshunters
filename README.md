@@ -14,7 +14,7 @@ Investigations are my favorite part of security work. I like following a lead, f
 I traced the marketplace’s domain records and documented what happened when I reported it to the .pw registry.
 
 **[ShinyHunters — 18 days inside the group ↗](https://x.com/bugshunters/status/2087923255357190281)**  
-A first-person account of the 18 days I spent investigating ShinyHunters. The original thread is in French.
+A first-person account of the 18 days I spent investigating ShinyHunters.
 
 ### Hackuten CTF
 

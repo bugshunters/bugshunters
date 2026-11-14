@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./banner.png" alt="bugshunters" width="95%"></h1>
+<h1 align="center"><img src="./banner.png" alt="bugshunters" width="80%"></h1>
 <p align="center"><strong>OSINT Investigator · Pentester · Software Engineer</strong></p>
 <p align="center">
   <a href="https://x.com/bugshunters">Field notes on X</a>
